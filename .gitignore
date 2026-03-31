@@ -112,7 +112,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -154,4 +153,5 @@ ehthumbs.db
 Thumbs.db
 
 # VS Code specific files
-.vscode/
+config.bat
+node_modules
