@@ -153,5 +153,4 @@ ehthumbs.db
 Thumbs.db
 
 # VS Code specific files
-config.bat
 node_modules
