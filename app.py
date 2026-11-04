@@ -2,6 +2,10 @@
 app.py  –  NeuroLearn Backend Entry Point
 Run: python app.py
 """
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
 import utils.session
 import os, sys
 from flask import Flask, send_from_directory
